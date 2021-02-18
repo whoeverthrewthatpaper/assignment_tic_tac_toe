@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\assignment06-Tic_Tac_Toe\bin\Debug\netcoreapp3.1\assignment06-Tic_Tac_Toe.exe
+C:\Users\HP\source\repos\assignment06-Tic_Tac_Toe\bin\Debug\netcoreapp3.1\assignment06-Tic_Tac_Toe.deps.json
+C:\Users\HP\source\repos\assignment06-Tic_Tac_Toe\bin\Debug\netcoreapp3.1\assignment06-Tic_Tac_Toe.runtimeconfig.json
+C:\Users\HP\source\repos\assignment06-Tic_Tac_Toe\bin\Debug\netcoreapp3.1\assignment06-Tic_Tac_Toe.runtimeconfig.dev.json
+C:\Users\HP\source\repos\assignment06-Tic_Tac_Toe\bin\Debug\netcoreapp3.1\assignment06-Tic_Tac_Toe.dll
+C:\Users\HP\source\repos\assignment06-Tic_Tac_Toe\bin\Debug\netcoreapp3.1\assignment06-Tic_Tac_Toe.pdb
+C:\Users\HP\source\repos\assignment06-Tic_Tac_Toe\obj\Debug\netcoreapp3.1\assignment06-Tic_Tac_Toe.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\assignment06-Tic_Tac_Toe\obj\Debug\netcoreapp3.1\assignment06-Tic_Tac_Toe.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\assignment06-Tic_Tac_Toe\obj\Debug\netcoreapp3.1\assignment06-Tic_Tac_Toe.AssemblyInfo.cs
+C:\Users\HP\source\repos\assignment06-Tic_Tac_Toe\obj\Debug\netcoreapp3.1\assignment06-Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\assignment06-Tic_Tac_Toe\obj\Debug\netcoreapp3.1\assignment06-Tic_Tac_Toe.dll
+C:\Users\HP\source\repos\assignment06-Tic_Tac_Toe\obj\Debug\netcoreapp3.1\assignment06-Tic_Tac_Toe.pdb
+C:\Users\HP\source\repos\assignment06-Tic_Tac_Toe\obj\Debug\netcoreapp3.1\assignment06-Tic_Tac_Toe.genruntimeconfig.cache
